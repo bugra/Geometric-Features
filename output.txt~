@@ -1,0 +1,63 @@
+For the image: 0.raw
+
+Area is:  329
+Centroid is: x= 42.547112462006076 and y= 27.15501519756839
+Perimeter is: 82.18376618407352
+Axis of Least Inertia:
+		alpha = 87.20255146894817 in degrees
+		 x of centroid = 42.547112462006076 and y of centroid = 27.15501519756839
+-------------------------------------------------
+For the image: 1.raw
+
+Area is:  148
+Centroid is: x= 9.087837837837839 and y= 35.472972972972975
+Perimeter is: 61.798989873223306
+Axis of Least Inertia:
+		alpha = 83.34219552872112 in degrees
+		 x of centroid = 9.087837837837839 and y of centroid = 35.472972972972975
+-------------------------------------------------
+For the image: 2.raw
+
+Area is:  239
+Centroid is: x= 10.096234309623432 and y= 34.71966527196653
+Perimeter is: 104.56854249492373
+Axis of Least Inertia:
+		alpha = 1.3383476750491707 in degrees
+		 x of centroid = 10.096234309623432 and y of centroid = 34.71966527196653
+-------------------------------------------------
+For the image: 3.raw
+
+Area is:  238
+Centroid is: x= 14.474789915966387 and y= 36.3235294117647
+Perimeter is: 108.08326112068517
+Axis of Least Inertia:
+		alpha = 89.55529756570891 in degrees
+		 x of centroid = 14.474789915966387 and y of centroid = 36.3235294117647
+-------------------------------------------------
+For the image: 4.raw
+
+Area is:  248
+Centroid is: x= 14.09274193548387 and y= 37.375
+Perimeter is: 71.11269837220806
+Axis of Least Inertia:
+		alpha = 1.3544876120971885 in degrees
+		 x of centroid = 14.09274193548387 and y of centroid = 37.375
+-------------------------------------------------
+For the image: 5.raw
+
+Area is:  250
+Centroid is: x= 30.872 and y= 35.92
+Perimeter is: 113.01219330881969
+Axis of Least Inertia:
+		alpha = 87.28739936343321 in degrees
+		 x of centroid = 30.872 and y of centroid = 35.92
+-------------------------------------------------
+For the image: 6.raw
+
+Area is:  29
+Centroid is: x= 9.758620689655173 and y= 11.10344827586207
+Perimeter is: 22.72792206135786
+Axis of Least Inertia:
+		alpha = 60.225846346327806 in degrees
+		 x of centroid = 9.758620689655173 and y of centroid = 11.10344827586207
+-------------------------------------------------

@@ -1,0 +1,54 @@
+For the image: 0.raw
+
+Area is:  329
+Centroid is: x= 42.547112462006076 and y= 36.84498480243161
+Perimeter is: 82.18376618407352
+Axis of Least Inertia:
+		alpha = 92.79744853105184 in degrees
+		 x of centroid = 42.547112462006076 and y of centroid = 36.84498480243161
+-------------------------------------------------
+For the image: 1.raw
+
+Area is:  148
+Centroid is: x= 9.087837837837839 and y= 28.527027027027025
+Perimeter is: 61.798989873223306
+Axis of Least Inertia:
+		alpha = 96.65780447127888 in degrees
+		 x of centroid = 9.087837837837839 and y of centroid = 28.527027027027025
+-------------------------------------------------
+For the image: 2.raw
+
+Area is:  239
+Centroid is: x= 10.096234309623432 and y= 29.280334728033473
+Perimeter is: 104.56854249492373
+Axis of Least Inertia:
+		alpha = 88.66165232495082 in degrees
+		 x of centroid = 10.096234309623432 and y of centroid = 29.280334728033473
+-------------------------------------------------
+For the image: 3.raw
+
+Area is:  238
+Centroid is: x= 14.474789915966387 and y= 27.676470588235297
+Perimeter is: 108.08326112068517
+Axis of Least Inertia:
+		alpha = 90.44470243429109 in degrees
+		 x of centroid = 14.474789915966387 and y of centroid = 27.676470588235297
+-------------------------------------------------
+For the image: 4.raw
+
+Area is:  248
+Centroid is: x= 14.09274193548387 and y= 26.625
+Perimeter is: 71.11269837220806
+Axis of Least Inertia:
+		alpha = 88.6455123879028 in degrees
+		 x of centroid = 14.09274193548387 and y of centroid = 26.625
+-------------------------------------------------
+For the image: 5.raw
+
+Area is:  250
+Centroid is: x= 14.872 and y= 28.08
+Perimeter is: 113.01219330881969
+Axis of Least Inertia:
+		alpha = 92.7126006365668 in degrees
+		 x of centroid = 14.872 and y of centroid = 28.08
+-------------------------------------------------
